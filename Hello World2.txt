@@ -1,2 +1,0 @@
-Ja tännekin voisi naputella jotain
-ja vielä vähän lisää niin voi harjoitella git add -p komentoa
